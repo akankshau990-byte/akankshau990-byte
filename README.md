@@ -7,10 +7,11 @@
 - Backend Development
 
 💻 Tech Stack
-- C++
-- Python
-- c
-- frontend
+- C
+- c++
+- java
+- python
+- frontend(html css js react )
 - Git & GitHub
 
 🎯 Goals
