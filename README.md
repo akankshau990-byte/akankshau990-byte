@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Akanksha 👋
 
-<!--
-**akankshau990-byte/akankshau990-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (AKTU)
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- DSA
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+- C++
+- Python
+- c
+- frontend
+- Git & GitHub
+
+🎯 Goals
+- Crack GATE
+- Become a Full Stack Developer
+
+📫 Connect with me
+- GitHub: https://github.com/akankshau990-byte
+
+⚡ Fun Fact
+I love solving coding problems and learning new technologies.
